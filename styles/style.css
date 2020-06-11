@@ -121,21 +121,21 @@
   align-items: center;
 }
 
-.digits-title,
-.digits-subtitle {
+.section-title,
+.section-subtitle {
   width: 60%;
   text-align: center;
   margin: 0;
 }
 
-.digits-title {
+.section-title {
   font-size: 60px;
   line-height: 69px;
   font-weight: bold;
   margin-bottom: 20px;
 }
 
-.digits-subtitle {
+.section-subtitle {
   font-size: 24px;
   line-height: 34px;
   font-weight: normal;
@@ -221,8 +221,8 @@
   position: relative;
 }
 
-.kaufman__section-title_theme_dark,
-.kaufman__section-subtitle_theme_dark {
+.section-title_theme_dark,
+.section-subtitle_theme_dark {
   width: 60%;
   text-align: center;
 }
@@ -338,7 +338,7 @@
 
 .footer__column_content_social {} /*В этом спринте этому классу стили не потребовались. Отсавляю здесь на всякий случай, вдруг пригодятся на следующем спринте.*/
 
-.footer__social_icon {
+.footer__social-icon {
   margin-right: 10px;
   margin-bottom: -1px;
 }
