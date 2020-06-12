@@ -196,7 +196,6 @@
   font-weight: bold;
   margin: 0;
   text-align: center;
-  margin: 0;
   margin-top: 100px;
   margin-bottom: 70px;
 }
@@ -267,7 +266,7 @@
   margin-bottom: 40px;
 }
 
-.footer__column_copyright {
+.footer__column_conten_copyright {
   flex-basis: 711px;
   display: flex;
   flex-direction: column;
