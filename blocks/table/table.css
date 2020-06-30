@@ -4,6 +4,8 @@
 
 @import url(./__text/table__text.css);
 
+@import url(./_theme/table_theme_dark.css);
+
 @import url(./__cell/_theme/table__cell_theme_dark.css);
 
 .table {
@@ -15,3 +17,8 @@
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
+
+
+
+

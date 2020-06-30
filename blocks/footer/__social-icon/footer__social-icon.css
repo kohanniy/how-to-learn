@@ -2,5 +2,5 @@
   width: 16px;
   height: 16px;
   margin-right: 10px;
-  margin-bottom: -1px;
+  transform: translateY(1px);
 }
